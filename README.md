@@ -1,7 +1,7 @@
 ### Olá eu sou o Cique Silva ✋
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark011caique&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark011caique&show_icons=true&theme=radical)
 
 
 ## Tecnoligias que eu uso no meu dia 
