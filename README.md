@@ -1,4 +1,4 @@
-### Olá eu sou o Cique Silva ✋
+### Olá eu sou o Caique Silva ✋
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark011caique&show_icons=true&theme=radical)
